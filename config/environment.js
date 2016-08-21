@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'woodland',
+    modulePrefix: 'template',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',

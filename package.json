@@ -1,7 +1,7 @@
 {
-  "name": "woodland",
+  "name": "template",
   "version": "0.0.0",
-  "description": "Small description for woodland goes here",
+  "description": "Small description for template goes here",
   "private": true,
   "directories": {
     "doc": "doc",

@@ -1,0 +1,11 @@
+This is the Orders page <br>
+
+
+{{#each model as |order| }}
+
+{{#link-to "orders.order" order}} Order {{order.id}} for {{order.last_name}}, {{order.first_name}} {{/link-to}} <br>
+
+{{/each}}
+
+
+{{outlet}}
